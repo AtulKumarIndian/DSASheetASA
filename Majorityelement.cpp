@@ -1,3 +1,4 @@
+    
     int majorityElement(vector<int>& nums) {
         for(int i =0; i<nums.size(); i++)
         {
@@ -12,3 +13,9 @@
         }return 0;
     } 
 };
+#include<iostream>
+using namespace std;
+int main()
+{  
+    return 0;
+}
