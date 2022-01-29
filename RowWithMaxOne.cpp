@@ -10,6 +10,7 @@ using namespace std;
         if(a[i][j]== 1) return i;
         if(i = 3) {i%=3; j++}
     } return -1;
+  
   } 
    
 
